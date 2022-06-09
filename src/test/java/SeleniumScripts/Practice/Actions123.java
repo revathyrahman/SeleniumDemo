@@ -25,6 +25,8 @@ public class Actions123 {
 		
 		driver.get("http://omayo.blogspot.com");
 		
+		System.out.println("Preethi's update");
+		
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		/*js.executeScript("window.scrollBy(0,2000)");
 		Thread.sleep(5000);
