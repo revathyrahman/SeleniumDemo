@@ -27,6 +27,8 @@ public class Actions123 {
 		
 		System.out.println("Preethi's update");
 		
+		System.out.println("Preethi's latest update");
+		
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		/*js.executeScript("window.scrollBy(0,2000)");
 		Thread.sleep(5000);
